@@ -11,7 +11,32 @@ body{
     background-attachment: fixed;  
     background-size: cover;
     width:100%;
+    padding-top: 3rem;
 }
 h1,h3{
     color:whitesmoke;
 }
+
+.play-again {
+    padding: 8px 15px;
+    border: 0;
+    background: #f4f4f4;
+    border-radius: 5px;
+    margin-top: 10px;
+    color:whitesmoke;
+  }
+  
+  .msg {
+    font-size: 1.5em;
+    margin-top: 40px;
+    color:whitesmoke;
+  }
+  
+  .box {
+    border: 2px solid #dedede;
+    display: inline-block;
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+    color:whitesmoke;
+  }
